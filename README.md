@@ -56,11 +56,14 @@ Restaurant Insights: By analyzing user preferences, restaurant owners can gain i
 
 
 # 🚀 Future Scope
-# User Feedback Loop: Implement a feedback mechanism to capture user preferences and continuously update the recommendation model.
+ ## User Feedback Loop: 
+ Implement a feedback mechanism to capture user preferences and continuously update the recommendation model.
 
-# Geo-Location Integration: Integrate real-time location data to recommend nearby restaurants and delivery options
+ ## Geo-Location Integration: 
+ Integrate real-time location data to recommend nearby restaurants and delivery options
 
-# Market Expansion: Extend the recommendation system to other cities and regions to reach a broader user base.
+ ## Market Expansion: 
+ Extend the recommendation system to other cities and regions to reach a broader user base.
 
 
 # 📋 License
@@ -70,6 +73,6 @@ This project is licensed under the MIT License, allowing you to use, modify, and
 # 🙏 Acknowledgments
 I would like to express my sincere gratitude to the following individuals:
 
-# Mentor: Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback throughout the project.
-# Team Members: Ishita Goyal, Nupur Kawtra, Sanskrutee Dudhe for their collaboration, contributions, and teamwork, which enriched the project significantly.
-# Your encouragement and expertise were instrumental in making this project a success. Thank you for your time, knowledge, and dedication.
+Mentor: Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback throughout the project. 
+Team Members: Ishita Goyal, Nupur Kawtra, Sanskrutee Dudhe for their collaboration, contributions, and teamwork, which enriched the project significantly.
+Your encouragement and expertise were instrumental in making this project a success. Thank you for your time, knowledge, and dedication.
