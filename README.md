@@ -4,28 +4,28 @@ Creating a recommendation model for Grubhub on GitHub involves developing a syst
 ![image](https://github.com/Nupur-23/Grubhub-Recommendation-Model/assets/108872972/07dc689f-f466-4a5e-9d6d-d60ffead5fb6)
 
 # Problem Statement
-Extract data from GRUBHUB using Python libraries like Selienium.
-Parse and clean the data, ensuring consistency and handling missing values.
-For dynamic dashboard used Power Bi with the following insights:
-Area-wise  Distribution of Restaurants.
-Top 3 location Having most DRN of the Restaurants.
-Most Cheapest Restaurants Based On Cuisines.
-Create slicers to assess case severity in different locations and Restaurants.
-Maximum Restaurants By Each Location.
-Build HTML Recommandation Model.
+* Extract data from GRUBHUB using Python libraries like Selienium.
+* Parse and clean the data, ensuring consistency and handling missing values.
+* For dynamic dashboard used Power Bi with the following insights:
+    - Area-wise  Distribution of Restaurants.
+    - Top 3 location Having most DRN of the Restaurants.
+    - Most Cheapest Restaurants Based On Cuisines.
+    - Create slicers to assess case severity in different locations and Restaurants.
+    - Maximum Restaurants By Each Location.
+* Build HTML Recommandation Model.
 # 📊 Project Overview
-Objective: Develop a recommendation model for restaurant in NewYork City.
-Data Source: Scrape data from Grubhub using Python.
-Libraries Used: NumPy, Pandas, Seaborn, Matplotlib.
-Recommendation Model: Predict preferred price and suggest a suitable location based on cuisine and price.
+* Objective: Develop a recommendation model for restaurant in NewYork City.
+* Data Source: Scrape data from Grubhub using Python.
+* Libraries Used: NumPy, Pandas, Seaborn, Matplotlib.
+* Recommendation Model: Predict preferred price and suggest a suitable location based on cuisine and price.
 
 # 📌 Project Details
 # 📊 Data Extraction
-Utilized Python to scrape data from Swiggy, collecting information in a specified format.
-Gathered restaurant details including cuisine, location, and price information.
+* Utilized Python to scrape data from Swiggy, collecting information in a specified format.
+* Gathered restaurant details including cuisine, location, and price information.
 # 🔍 Data Preprocessing
-Cleaned and organized the scraped data for analysis.
-Prepared two tables using NumPy and Pandas for further analysis.
+* Cleaned and organized the scraped data for analysis.
+* Prepared two tables using NumPy and Pandas for further analysis.
 
 # 📊 Power BI Dashboard
 -It includes various filters for exploring different scenarios.
@@ -34,17 +34,17 @@ Prepared two tables using NumPy and Pandas for further analysis.
 https://drive.google.com/file/d/1sOhrs_7RcMEiAsdTa0jGJw_3SuKUnEjI/view?usp=sharing
 
 # 🌐 Webpage
-Created an interactive webpage for users to input cuisine, preferred location, and preferred price.
-Utilized Flask to build the user interface.
-Stored model predictions using Pickle.
+* Created an interactive webpage for users to input cuisine, preferred location, and preferred price.
+* Utilized Flask to build the user interface.
+* Stored model predictions using Pickle.
 ![Model](https://github.com/Nupur-23/Grubhub-Recommendation-Model/assets/108872972/78ae4349-bd24-45e1-8f4c-c3805bdd70a5)
 
 https://drive.google.com/file/d/1BlxQY_7xEoQyLar6HTkei1oGfYa9LPr-/view?usp=sharing
 
 # 📋 Project Presentation
-Prepared a presentation summarizing the project's objectives, methods, findings, and recommendations.
+* Prepared a presentation summarizing the project's objectives, methods, findings, and recommendations.
 
-[View Project Presentation]
+* [View Project Presentation]
 [https://drive.google.com/file/d/1BlxQY_7xEoQyLar6HTkei1oGfYa9LPr-/view?usp=sharing](https://docs.google.com/presentation/d/1pWsjYxryuzXDA_CJ52jjl_X87lAzRu5b/edit?usp=sharing&ouid=103882034021585790739&rtpof=true&sd=true)
 
 # 💡 Insights Derived
