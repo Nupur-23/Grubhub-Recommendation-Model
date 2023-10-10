@@ -48,22 +48,19 @@ Prepared a presentation summarizing the project's objectives, methods, findings,
 [https://drive.google.com/file/d/1BlxQY_7xEoQyLar6HTkei1oGfYa9LPr-/view?usp=sharing](https://docs.google.com/presentation/d/1pWsjYxryuzXDA_CJ52jjl_X87lAzRu5b/edit?usp=sharing&ouid=103882034021585790739&rtpof=true&sd=true)
 
 # 💡 Insights Derived
-Personalized Recommendations: The recommendation model provides personalized restaurant suggestions based on user preferences, determines the best location for opening a restaurant.
+* **Personalized Recommendations**: The recommendation model provides personalized restaurant suggestions based on user preferences, determines the best location for opening a restaurant.
 
-User Engagement: Analyzing user interactions with recommended restaurants and tracking user feedback helps refine the recommendation algorithm.
+* **User Engagement**: Analyzing user interactions with recommended restaurants and tracking user feedback helps refine the recommendation algorithm.
 
-Restaurant Insights: By analyzing user preferences, restaurant owners can gain insights into customer preferences, leading to menu optimization and targeted promotions.
+* **Restaurant Insights**: By analyzing user preferences, restaurant owners can gain insights into customer preferences, leading to menu optimization and targeted promotions.
 
 
 # 🚀 Future Scope
- ## User Feedback Loop: 
- Implement a feedback mechanism to capture user preferences and continuously update the recommendation model.
+* **User Feedback Loop**: Implement a feedback mechanism to capture user preferences and continuously update the recommendation model.
 
- ## Geo-Location Integration: 
- Integrate real-time location data to recommend nearby restaurants and delivery options
+* **Geo-Location Integration**: Integrate real-time location data to recommend nearby restaurants and delivery options
 
- ## Market Expansion: 
- Extend the recommendation system to other cities and regions to reach a broader user base.
+* **Market Expansion**: Extend the recommendation system to other cities and regions to reach a broader user base.
 
 
 # 📋 License
@@ -73,8 +70,8 @@ This project is licensed under the MIT License, allowing you to use, modify, and
 # 🙏 Acknowledgments
 I would like to express my sincere gratitude to the following individuals:
 
-## Mentor: 
-Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback throughout the project. 
-## 
-Team Members: Ishita Goyal, Nupur Kawtra, Sanskrutee Dudhe for their collaboration, contributions, and teamwork, which enriched the project significantly.
+* **Mentor**: Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback throughout the project. 
+
+* **Team Members**: Ishita Goyal, Nupur Kawtra, Sanskrutee Dudhe for their collaboration, contributions, and teamwork, which enriched the project significantly.
+
 Your encouragement and expertise were instrumental in making this project a success. Thank you for your time, knowledge, and dedication.
