@@ -29,6 +29,7 @@ Prepared two tables using NumPy and Pandas for further analysis.
 
 # 📊 Power BI Dashboard
 -It includes various filters for exploring different scenarios.
+![Dashboard](https://github.com/Nupur-23/Grubhub-Recommendation-Model/assets/108872972/8c61a2b5-2497-42a4-8ea1-ad03788f28fb)
 
 https://drive.google.com/file/d/1sOhrs_7RcMEiAsdTa0jGJw_3SuKUnEjI/view?usp=sharing
 
@@ -36,6 +37,8 @@ https://drive.google.com/file/d/1sOhrs_7RcMEiAsdTa0jGJw_3SuKUnEjI/view?usp=shari
 Created an interactive webpage for users to input cuisine, preferred location, and preferred price.
 Utilized Flask to build the user interface.
 Stored model predictions using Pickle.
+![Model](https://github.com/Nupur-23/Grubhub-Recommendation-Model/assets/108872972/78ae4349-bd24-45e1-8f4c-c3805bdd70a5)
+
 https://drive.google.com/file/d/1BlxQY_7xEoQyLar6HTkei1oGfYa9LPr-/view?usp=sharing
 
 # 📋 Project Presentation
