@@ -21,7 +21,7 @@ Creating a recommendation model for Grubhub on GitHub involves developing a syst
 
 # 📌 Project Details
 # 📊 Data Extraction
-* Utilized Python to scrape data from Swiggy, collecting information in a specified format.
+* Utilized Python to scrape data from Grubhub, collecting information in a specified format.
 * Gathered restaurant details including cuisine, location, and price information.
 # 🔍 Data Preprocessing
 * Cleaned and organized the scraped data for analysis.
